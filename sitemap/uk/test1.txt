@@ -1,8 +1,0 @@
-Task24AgentApp
-Task24AdminWebNodeJSAPIDevCB
-Task24AgentGigsAppNodeJSAPIDevCB
-Task24AgentWebNodeJSAPIDevCB
-Task24ClientAppNodeJSAPIDevCB
-Task24ClientWebNodeJSAPIDevCB
-Task24WebNodeJSAPIDevCB
-CheapestEssayNodeJSMobileAPIDevCB
